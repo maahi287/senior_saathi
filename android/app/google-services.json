@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881331191172",
+    "project_id": "seniorsaathi-59724",
+    "storage_bucket": "seniorsaathi-59724.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881331191172:android:a47eff60553b36026271d1",
+        "android_client_info": {
+          "package_name": "com.example.senior_saathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgReGNkjPe_zcydiS9XryCsS_Wk7qOmOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
